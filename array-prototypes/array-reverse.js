@@ -1,5 +1,6 @@
 Array.prototype.myReverse = function (arr) {
 	if (!arr) {
+		// when someArray.myReverse() is called
 		arr = this;
 	}
 
@@ -13,7 +14,7 @@ Array.prototype.myReverse = function (arr) {
 		leftP += 1;
 		rightP -=1;
 	}
-	
+
 	return arr;
 }
 
