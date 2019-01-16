@@ -6,8 +6,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 .from()
 .isArray()
 .of()
-.prototype.concat()
-.prototype.copyWithin()
+.prototype.concat() ✓
+.prototype.copyWithin() ✓
 .prototype.entries()
 .prototype.every()
 .prototype.fill()
