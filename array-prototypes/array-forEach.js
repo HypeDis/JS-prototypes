@@ -6,7 +6,7 @@ function (callback, thisArg = this) {
 		} else {
 			continue
 		}
-		
+
 	}
 
 }

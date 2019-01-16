@@ -2,6 +2,7 @@ practice building various javascript prototype functions from scratch
 
 Array prototypes:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 .from()
 .isArray()
 .of()
@@ -15,8 +16,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 .prototype.findIndex()
 .prototype.flat()
 .prototype.flatMap()
-.prototype.forEach()
-.prototype.includes()
+.prototype.forEach() ✓
+.prototype.includes() 
 .prototype.indexOf()
 .prototype.join()
 .prototype.keys()
