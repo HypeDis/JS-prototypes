@@ -8,7 +8,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 .of()
 .prototype.concat() ✓
 .prototype.copyWithin() ✓
-.prototype.entries()
+.prototype.entries() - IN PROGRESS
 .prototype.every()
 .prototype.fill()
 .prototype.filter()
